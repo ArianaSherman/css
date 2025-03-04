@@ -1,0 +1,19 @@
+h1 {
+  background-color: aquamarine;
+  color: violet;
+}
+p {
+  color: red;
+}
+
+.smaller{
+  font-size: 12px;
+}
+
+
+a {
+  background-color: orange;
+  color: greenyellow;
+  font-size: 30px;
+}
+
